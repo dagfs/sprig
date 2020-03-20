@@ -1,0 +1,108 @@
+\include{config}
+\begin{document}
+
+
+\newcommand{\numberBox}[3]{
+\noindent
+ \fcolorbox{#2}{white}{
+ \begin{minipage}[l][13.1cm][c]{
+ \dimexpr19cm-4
+ \fboxsep-2
+ \fboxrule}
+   \centering
+   #1
+   \end{minipage}
+  }
+  \\[.5pc]
+}
+
+
+\newcommand{\descriptionBox}[5]{
+\noindent
+ \fcolorbox{#1}{white}{
+ \begin{minipage}[l][13.1cm][c]{
+ \dimexpr19cm-4
+ \fboxsep-2
+ \fboxrule}
+   \section*{#3}
+   #4\\[2pc]
+   Follow the steps below:\\
+   #5
+   \end{minipage}
+  }
+  \\[.5pc]
+}
+
+
+
+\newpage
+
+
+\numberBox{%
+\includegraphics[width=4cm]{img/logo/reality}%
+\section*{1 - Reality}
+}{RealityBlue}{RealityBlue}
+%
+\numberBox{%
+\includegraphics[width=4cm]{img/logo/play}%
+\section*{3 - Play}
+}{PlayGreen}{PlayGreen}
+%
+%
+\descriptionBox{RealityBlue}{RealityBlue}{\includegraphics[height=8mm]{img/logo/reality} Reality}{What problems related to privacy exists out there? In this part we want you to think about what concerns you, and what privacy problem you would like to solve.}{%
+\begin{enumerate}%
+  \item Choose one \textbf{Reality card}%
+  \item Discuss the \textbf{privacy problems} related to the card.%
+  \item Create a situation about the \textbf{privacy problem} you have selected.%
+  \item Use the questions on the question card to help you think.%
+  \item Explain your idea to the other groups.%
+\end{enumerate}%
+}
+%
+\descriptionBox{PlayGreen}{PlayGreen}{\includegraphics[height=8mm]{img/logo/play} Play}{%
+What makes a game fun to play? In this part we want you to think about what makes a game fun to play, and try to create a new exciting game in a given genre.%
+}{%
+\begin{enumerate}%
+  \item Think of what \textbf{genre} the game you selected in the meaning part is, and of the how you raised \textbf{awareness} about your \textbf{privacy problem}
+  \item Build a game that raises \textbf{awareness} of your \textbf{privacy problem} in this \textbf{genre}
+  \item Use the questions on the question card to help you think.%
+  \item Draw 4 scenes from the game.%
+  \item Explain your idea to the other groups.%
+\end{enumerate}%
+}
+%
+%
+\numberBox{%
+\includegraphics[width=4cm]{img/logo/meaning}%
+\section*{2 - Meaning}
+}{MeaningYellow}{MeaningYellow}
+%
+\numberBox{%
+\includegraphics[width=4cm]{img/logo/technology}%
+\section*{4 - Technology}
+}{TechnologyRed}{TechnologyRed}
+%
+%
+\descriptionBox{MeaningYellow}{MeaningYellow}{Meaning \includegraphics[height=8mm]{img/logo/meaning}}{%
+How can a game be meaningful? In this part we want you to think about how existing games can be changed to have a meaning, and increase the awareness or change the attitude of the player. %
+}{%
+\begin{enumerate}%
+  \item Choose a game the majority of the group enjoys.
+  \item Make sure everyone in the groups understand how the game works.
+  \item Change one or more elements of the game so that it raises awareness about the \textbf{privacy problem} identified in the reality part.
+  \item Use the questions on the question card to help you think.%
+  \item Explain your idea to the other groups.%
+\end{enumerate}%
+}
+%
+\descriptionBox{TechnologyRed}{TechnologyRed}{Technology \includegraphics[height=8mm]{img/logo/technology}}{%
+What remains is to combine your \textbf{privacy problem}, ways of raising \textbf{awareness}, game \textbf{genre}, with a \textbf{technology}. %
+}{%
+\begin{enumerate}%
+  \item Draw one \textbf{Technology card}.
+  \item Combine the previous parts into one successful Serious Game!
+  \item Use the questions on the question card to help you think.%
+  \item Explain your idea to the other groups.%
+\end{enumerate}%
+}
+\end{document}
