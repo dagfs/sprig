@@ -6,7 +6,7 @@ Serious Privacy Game Workshop (SPRIG) is a workshop that takes the participant t
 ## Participating in the workshop study
 The participants will be given a short survey to collect their attitude to privacy followed by a privacy related Kahoot!, before a short introduction to privacy and serious games are given. After these introduction activities are done, the workshop is run. After the workshop is run another short survey is given to get feedback.
 
-> Drafts to both surveys can be seen at [attitude survey](files/Before workshop - Privacy survey .pdf) and at [feedback survey](files/After workshop - Workshop survey .pdf)
+> Drafts to both surveys can be seen at [attitude survey](/sprig/files/Before workshop - Privacy survey .pdf) and at [feedback survey](files/After workshop - Workshop survey .pdf)
 
 
 ## Workshop Download
@@ -14,25 +14,25 @@ The participants will be given a short survey to collect their attitude to priva
 The workshop has 3 artifacts as well as a presentation and a guide for running the workshop.
 
 The first is the board
-![](img/workshop/board_2.png)
-[Download bord](files/board.pdf).
+![](/sprig/img/workshop/board_2.png)
+[Download bord](/sprig/files/board.pdf).
 
 The second is the workshop cards
-![](img/workshop/cards.png) [Download cards](files/cards.pdf).
+![](img/workshop/cards.png) [Download cards](/sprig/files/cards.pdf).
 
 The last part are the question cards
-![](img/workshop/question_cards.png)
+![](/sprig/img/workshop/question_cards.png)
 [Download question cards](files/question_cards.pdf)
 
 
-The [presentation](files/presentation.pdf) introduces what privacy is, what personal data are, and why privacy is important.
+The [presentation](/sprig/files/presentation.pdf) introduces what privacy is, what personal data are, and why privacy is important.
 
 
-Take a look at the [guide for running the workshop](workshop/).
+Take a look at the [guide for running the workshop](/sprig/workshop/).
 
 ## Other Activities
 
-* [Privacy Related News Articles](news_articles/)
+* [Privacy Related News Articles](/sprig/news_articles/)
 
 ## Other Languages
 Follow the links to see versions in other languages.
