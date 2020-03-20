@@ -2,10 +2,10 @@
 
 ## Running the workshop
 
-The [Serious Privacy Game workshop presentation](/files/presentation_LSS4.pptx) contains slides that can be modified to suit running the workshop in different scenarios.
+The [Serious Privacy Game workshop presentation](/sprig/files/presentation_LSS4.pptx) contains slides that can be modified to suit running the workshop in different scenarios.
 
-* [Norwegain version](/files/presentation_LSS4.pptx)
-* [English version](/files/presentation_LSS5.pptx)
+* [Norwegain version](/sprig/files/presentation_LSS4.pptx)
+* [English version](/sprig/files/presentation_LSS5.pptx)
 
 
 The workshop consists of four parts:
